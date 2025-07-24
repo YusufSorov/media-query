@@ -1,0 +1,21 @@
+/*Common Start*/
+body{
+   margin: 0;
+   padding: 0;
+   font-family:playfair Display,serif;
+   font-size: 16px;
+   font-weight:400 ;
+   color: ;
+}
+/*Common End*/
+
+.box{
+   height: 100px;
+   background-color: red;
+}
+.img{
+   width: 100%;
+   margin-bottom: 5px;
+}
+
+
